@@ -1,4 +1,3 @@
 # uttamdemo
-this is my first  git repository.
-<b> move to the next line 
+This is my first  git repository.
 Author = Uttam Jangid
